@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("Moserware.Skills")]
+[assembly: AssemblyTitle("Moserware.Skills.Core")]
 [assembly: AssemblyDescription("Implementation of the TrueSkill algorithm.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jeff Moser")]
@@ -36,6 +36,6 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("1.0.0")]
-[assembly: AssemblyInformationalVersion("1.0.0.1")]
+[assembly: AssemblyVersion("8.0.0")]
+[assembly: AssemblyInformationalVersion("8.0.0.1")]
 [assembly: InternalsVisibleTo("UnitTests")]
